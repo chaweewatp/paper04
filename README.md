@@ -3,8 +3,6 @@ This repository includes
 
 find the link between carbon price, electricity price, load demand
 
-
-
 data for benchmark
 
 electricity price
