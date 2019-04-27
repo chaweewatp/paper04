@@ -21,3 +21,10 @@ https://www.iso-ne.com/isoexpress/
 carbon price
 https://www.rggi.org/
 http://calcarbondash.org/
+
+# Note for: 04/27/2019
+
+1. Paper name : "Does California's CO2 price affect wholesale electricity prices in the Western U.S.A.?"
+2. Highlight: analyzed CO2 price based on cap and trade program affect to wholesale electricity price in California.
+3. Data source
+  * The market price data came from
