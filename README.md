@@ -29,5 +29,5 @@ http://calcarbondash.org/
   * Data source : the market price data came from SNL Financial (www.snl.com); electricity wholesale price ($/MWhr), natural gas price ($/MMBtu)
   * Statistical analysis (correlation analysis) shows that that the day-ahead market prices are positively correlated with the day-ahead forecasts of the CO2 price, the natural gas price and PG& E and SCE system loads, but are negatively correlated with the day-ahead forecasts of California's solar generation and hydro conditions. As some of the correlations (e.g., nuclear capacities available and wind energy) are at odds with our expectations, we propose a regression-based approach below to esti- mate the CO2 price's effects
   * method: regression with random error
-  $z = x + y$.
-  `$$a^2 + b^2 = c^2$$`
+
+$$\frac{n!}{k!(n-k)!} = {n \choose k}$$
