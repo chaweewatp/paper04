@@ -30,4 +30,4 @@ http://calcarbondash.org/
   * Statistical analysis (correlation analysis) shows that that the day-ahead market prices are positively correlated with the day-ahead forecasts of the CO2 price, the natural gas price and PG& E and SCE system loads, but are negatively correlated with the day-ahead forecasts of California's solar generation and hydro conditions. As some of the correlations (e.g., nuclear capacities available and wind energy) are at odds with our expectations, we propose a regression-based approach below to esti- mate the CO2 price's effects
   * method: regression with random error
 
-<img src="https://latex.codecogs.com/gif.latex?a&plus;c" title="a+c" /></a>
+<img src="https://latex.codecogs.com/png.latex?\bg_white&space;\large&space;P_{t}=\alpha_{t}&plus;\alpha&space;C_{t}&plus;\sum_{k}\alpha_{k}X_{kt}&plus;\varepsilon_{t}" title="\large P_{t}=\alpha_{t}+\alpha C_{t}+\sum_{k}\alpha_{k}X_{kt}+\varepsilon_{t}" />
