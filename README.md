@@ -34,4 +34,9 @@ http://calcarbondash.org/
 
 2. Paper name :"Carbon trading’s impact on California’s real-time electricity market prices"
   * same as paper 1 but the difference is this paper concern on real-time prices.
-3.
+
+3. Paper name : "DISTRICT HEATING SYSTEMS UNDER HIGH CARBON PRICES: THE ROLE OF THE PASS-THROUGH FROM EMISSION PRICES TO POWER PRICES Sebastian"
+  * Run linear programming (LP), mix-integer linear (MIP) to solve unit commitment of district heating system operators (DHSO) with pass through from emission price to electricity price.
+  * The result shows that the model can reduce cost pass through from around 1.1 at emission prices around 10 euros/t CO2 eq to approximately 0.78 euros/t CO2 eq.
+  * As results of (i) a “fuel switch” triggered by rising emissions prices, (ii) a changing pattern of co-generation outputs and (iii) an increase in the overall fuel efficiency.
+  * Idea to do more : how to calculate estimated pass through?
