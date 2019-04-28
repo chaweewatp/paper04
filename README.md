@@ -40,3 +40,5 @@ http://calcarbondash.org/
   * The result shows that the model can reduce cost pass through from around 1.1 at emission prices around 10 euros/t CO2 eq to approximately 0.78 euros/t CO2 eq.
   * As results of (i) a “fuel switch” triggered by rising emissions prices, (ii) a changing pattern of co-generation outputs and (iii) an increase in the overall fuel efficiency.
   * Idea to do more : how to calculate estimated pass through?
+
+  <img src="https://latex.codecogs.com/png.latex?\bg_white&space;\large&space;\frac{\Delta&space;p_{el}}{\Delta&space;p_{e}}=\frac{p^{s}_{el}-p^{s-1}_{el}}{p^{s}_{e}-p^{s-1}_{e}}" title="\large \frac{\Delta p_{el}}{\Delta p_{e}}=\frac{p^{s}_{el}-p^{s-1}_{el}}{p^{s}_{e}-p^{s-1}_{e}}" />
