@@ -43,4 +43,11 @@ http://calcarbondash.org/
 
   <img src="https://latex.codecogs.com/png.latex?\bg_white&space;\large&space;\frac{\Delta&space;p_{el}}{\Delta&space;p_{e}}=\frac{p^{s}_{el}-p^{s-1}_{el}}{p^{s}_{e}-p^{s-1}_{e}}" title="\large \frac{\Delta p_{el}}{\Delta p_{e}}=\frac{p^{s}_{el}-p^{s-1}_{el}}{p^{s}_{e}-p^{s-1}_{e}}" />
 
-4. paper name : ""
+# Note for: 04/29/2019
+
+1. internet : "https://www.journals.uchicago.edu/doi/full/10.1086/688486"
+  * this paper estimated the degree of allowance cost pass-through to hourly wholesale electricity prices in Germany.
+  * model used in this paper: linear regression
+  * data used: hourly spot market data
+  * brief finding: I find that allowance costs are passed through to electricity prices completely (or nearly completely) on average, but that the degree of pass-through varies over the load curve.
+  * allowance cost pass-through is lower during hours of low demand and higher during hours of high demand, and that pass-through of allowance costs varies by much more than pass-through of fuel costs
