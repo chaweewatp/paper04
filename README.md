@@ -21,6 +21,7 @@ https://www.iso-ne.com/isoexpress/
 carbon price
 https://www.rggi.org/
 http://calcarbondash.org/
+https://markets.businessinsider.com/commodities/historical-prices/co2-emissionsrechte/euro/2.4.2018_2.5.2019
 
 # Note for: 04/27/2019
 
