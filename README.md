@@ -15,12 +15,19 @@ UK APX power exchange :
 www.apxgroup.com/market-results/apx-power-uk/ukpx-rpdhistorical-data
 
 PJM, ISO-NE :
-http://www.gdfsuezenergyresources.com/index.php?id=712
-https://www.iso-ne.com/isoexpress/
-https://www.iso-ne.com/isoexpress/web/reports/pricing/-/tree/lmps-rt-hourly-final
+http://www.gdfsuezenergyresources.com/index.php?id=712,
+https://www.iso-ne.com/isoexpress/,
+https://www.iso-ne.com/isoexpress/web/reports/pricing/-/tree/lmps-rt-hourly-final,
 
 Electricity price:
 ISO-NEW ENGLAND : https://www.iso-ne.com/isoexpress/web/reports/pricing/-/tree/ener-mkt-prices
+
+CAISO: I should use trading hub price rather than nodal LMP.
+
+http://www.energyonline.com/Data/GenericData.aspx?DataId=20,
+http://oasis.caiso.com/mrioasis/logon.do,
+
+
 
 carbon price
 https://www.rggi.org/
