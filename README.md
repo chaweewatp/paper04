@@ -43,7 +43,7 @@ https://markets.businessinsider.com/commodities/historical-prices/co2-emissionsr
 
 <div style="width:830px; background-color:white; height:120px; overflow:auto;">
   <!-- <div style="width: 2000px; height: 90px;"> -->
-    <img src="images/hub-map.png" width="400" height="400">
+    <img src="images/hub-map.png" width="700" height="700">
 
   <!-- </div> -->
 </div>
