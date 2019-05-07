@@ -20,14 +20,16 @@ https://www.iso-ne.com/isoexpress/,
 https://www.iso-ne.com/isoexpress/web/reports/pricing/-/tree/lmps-rt-hourly-final,
 
 Electricity price:
+
+Overall: https://www.eia.gov/electricity/wholesale/#history
+
+
 ISO-NEW ENGLAND : https://www.iso-ne.com/isoexpress/web/reports/pricing/-/tree/ener-mkt-prices
 
 CAISO: I should use trading hub price rather than nodal LMP.
 
 http://www.energyonline.com/Data/GenericData.aspx?DataId=20,
 http://oasis.caiso.com/mrioasis/logon.do,
-
-
 
 carbon price
 https://www.rggi.org/
@@ -37,6 +39,17 @@ http://calcarbondash.org/
 
 
 https://markets.businessinsider.com/commodities/historical-prices/co2-emissionsrechte/euro/2.4.2018_2.5.2019
+
+
+<div style="width:830px; background-color:white; height:120px; overflow:auto;">
+  <!-- <div style="width: 2000px; height: 90px;"> -->
+    <img src="images/hub-map.png" width="200" height="200">
+
+  <!-- </div> -->
+</div>
+
+
+
 
 # Note for: 04/27/2019
 
