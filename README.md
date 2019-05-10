@@ -3,7 +3,23 @@ This repository includes
 
 find the link between carbon price, electricity price, load demand
 
-data for benchmark
+
+# Map of USA electricity markets
+
+<div style="width:830px; background-color:white; height:120px; overflow:auto;">
+    <img src="images/hub-map.png" width="700" height="700">
+</div>
+
+
+# Electricity price and carbon prices
+
+
+<div style="width:1400px; background-color:white; height:120px; overflow:auto;">
+    <img src="images/NP15_vs_cali_CO2.png" width="700" height="700">
+    <img src="images/SP15_vs_cali_CO2.png" width="700" height="700">
+</div>
+
+# data for benchmark
 
 electricity price
 Nord Pool : www.nordpoolspot.com/Market-data1/Downloads/Historical-Data-Download1/Data-Download-Page
@@ -41,12 +57,6 @@ http://calcarbondash.org/
 https://markets.businessinsider.com/commodities/historical-prices/co2-emissionsrechte/euro/2.4.2018_2.5.2019
 
 
-<div style="width:830px; background-color:white; height:120px; overflow:auto;">
-  <!-- <div style="width: 2000px; height: 90px;"> -->
-    <img src="images/hub-map.png" width="700" height="700">
-
-  <!-- </div> -->
-</div>
 
 
 
