@@ -19,6 +19,12 @@ find the link between carbon price, electricity price, load demand
     <img src="images/SP15_vs_cali_CO2.png" width="700" height="700">
 </div>
 
+Idea for EU markets
+<div style="width:1400px; background-color:white; height:120px; overflow:auto;">
+    <img src="images/Ideal_EU_market.png" width="700" height="700">
+</div>
+
+
 # data for benchmark
 
 electricity price
