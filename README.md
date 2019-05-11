@@ -21,7 +21,7 @@ find the link between carbon price, electricity price, load demand
 
 Idea for EU markets
 <div style="width:1400px; background-color:white; height:120px; overflow:auto;">
-    <img src="images/Ideal_EU_market.png" width="700" height="700">
+    <img src="images/Idea_EU_market.png" width="700" height="700">
 </div>
 
 
