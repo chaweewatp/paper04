@@ -1,8 +1,6 @@
 This repository includes
 
-
 find the link between carbon price, electricity price, load demand
-
 
 # Map of USA electricity markets
 
@@ -10,9 +8,7 @@ find the link between carbon price, electricity price, load demand
     <img src="images/hub-map.png" width="700" height="700">
 </div>
 
-
 # Electricity price and carbon prices
-
 
 <div style="width:1400px; background-color:white; height:120px; overflow:auto;">
     <img src="images/NP15_vs_cali_CO2.png" width="700" height="700">
@@ -25,13 +21,12 @@ Idea for EU markets
     <img src="images/EU_market.png" width="700" height="700">
 </div>
 
-
 # data for benchmark
 
 electricity price
 Nord Pool : www.nordpoolspot.com/Market-data1/Downloads/Historical-Data-Download1/Data-Download-Page
 
-British market :
+British market:
 www.bmreports.com
 
 UK APX power exchange :
@@ -43,28 +38,24 @@ https://www.iso-ne.com/isoexpress/,
 https://www.iso-ne.com/isoexpress/web/reports/pricing/-/tree/lmps-rt-hourly-final,
 
 Electricity price:
-
 Overall: https://www.eia.gov/electricity/wholesale/#history
 
 
-ISO-NEW ENGLAND : https://www.iso-ne.com/isoexpress/web/reports/pricing/-/tree/ener-mkt-prices
 
+ISO-NEW ENGLAND : https://www.iso-ne.com/isoexpress/web/reports/pricing/-/tree/ener-mkt-prices
 CAISO: I should use trading hub price rather than nodal LMP.
 
 http://www.energyonline.com/Data/GenericData.aspx?DataId=20,
 http://oasis.caiso.com/mrioasis/logon.do,
 
 carbon price
+
 https://www.rggi.org/
 : Can find only quarter (3 months closing data) not in secondary market (weekly?)
 
 http://calcarbondash.org/
 
-
 https://markets.businessinsider.com/commodities/historical-prices/co2-emissionsrechte/euro/2.4.2018_2.5.2019
-
-
-
 
 
 
